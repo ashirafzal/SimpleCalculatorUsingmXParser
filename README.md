@@ -14,6 +14,15 @@ like this as mention above without qoutations.
 there is a folder named 'mxParser executable dil file' in which you could also find the mxparser executable .dil file used as an library
 in this project.
 
+How add reference for the external Library
+
+Right click on references and select "Add Reference"
+Then in the dialogue select 'browse' and find the .dll you need on your file system:
+
+
+![dwi9m](https://user-images.githubusercontent.com/35813537/54321151-08c07480-45ad-11e9-9f00-1ab923b9049b.png)
+
+
 
 mxParser official website link
 http://mathparser.org/
@@ -21,6 +30,7 @@ http://mathparser.org/
 mxParser on Github
 https://github.com/mariuszgromada/MathParser.org-mXparser
 
+# ScreenShots
 
 Screenshot 1
 
@@ -29,7 +39,6 @@ Screenshot 1
 Screenshot 2
 
 ![sc2](https://user-images.githubusercontent.com/35813537/54320528-85058880-45aa-11e9-8932-c6802f449dec.PNG)
-
 
 Screenshot 3
 
